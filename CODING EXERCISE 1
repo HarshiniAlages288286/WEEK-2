@@ -17,7 +17,7 @@ class myCampusLife {
 		System.out.println("5.30 pm - 6.00 pm : do my laundry");
 		System.out.println("6.00 pm - 7.30 pm : shower");
 		System.out.println("7.30 pm - 8.30 pm : take my dinner");
-		System.out.println("8.30 pm - 11.30 pm : do my revisions");
+		System.out.println("8.30 pm - 11.30 pm : conduct my programming work");
 		System.out.println("11.30 pm : sleep");
 	}
 
